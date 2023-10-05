@@ -4,8 +4,6 @@ import { useDispatch } from 'react-redux';
 import { searchProducts } from '../../../Redux/Features/productSlice';
 import Style from './Searchbar.module.css';
 import SearchIcon from '@mui/icons-material/Search';
-import BookmarkBorderIcon from '@mui/icons-material/BookmarkBorder';
-import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 import { useSelector } from 'react-redux';
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 
